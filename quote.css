@@ -1,0 +1,39 @@
+body{
+background-color: lightgray;
+
+
+
+
+}
+#id1{
+
+background-color:white ;
+width: 45%;
+height: 20%;
+border-bottom-left-radius: 20px;
+border-bottom-right-radius: 20px;
+text-align: center;
+margin-top: 10%;
+margin-left: 20%;
+
+}
+input{
+background-color: blue;
+width: 100%;
+height: 40px;
+margin-top: 50%;
+color: white;
+font-size: 100%;
+border-bottom-left-radius: 20px;
+border-bottom-right-radius: 20px;
+
+}
+
+
+
+
+
+
+
+
+
